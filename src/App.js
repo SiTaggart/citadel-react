@@ -46,6 +46,7 @@ export default class App extends Component {
                 <pre>
                     Switched Checked: {JSON.stringify(this.state.exampleOneChecked)}
                 </pre>
+
             </div>
         );
     }
